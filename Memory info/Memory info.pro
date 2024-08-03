@@ -1,0 +1,5 @@
+-libraryjars C:\SonyEricsson\JavaME_SDK_CLDC\WTK2\lib\midpapi10.jar;C:\SonyEricsson\JavaME_SDK_CLDC\WTK2\lib\cldcapi11.jar
+-injars C:\SonyEricsson\JavaME_SDK_CLDC\WTK2\apps\Memory info\bin\Memory info.jar
+-outjar C:\Users\Dell\AppData\Local\Temp\Memory info.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames

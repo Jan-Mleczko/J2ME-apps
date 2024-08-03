@@ -1,0 +1,9 @@
+MIDlet-1: Memory info, Memory info.png, MemoryInfoApp
+MIDlet-Description: Information about free, used and total memory.
+MIDlet-Jar-Size: 1296
+MIDlet-Jar-URL: Memory info.jar
+MIDlet-Name: Memory info
+MIDlet-Vendor: Manna5
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-1.0

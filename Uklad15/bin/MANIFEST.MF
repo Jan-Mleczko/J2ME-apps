@@ -1,0 +1,7 @@
+MIDlet-1: Uklad15, Uklad15.png, Ukl15MIDlet
+MIDlet-Info-URL: http://manna5.c1.biz/
+MIDlet-Name: Układanka-15
+MIDlet-Vendor: Jan "Manna5" Mleczko
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

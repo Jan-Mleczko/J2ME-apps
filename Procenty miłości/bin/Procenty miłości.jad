@@ -1,0 +1,11 @@
+MIDlet-1: Procenty miłości, Procenty miłości.png, LovePercentsApp
+MIDlet-Description: Na ile do siebie pasujecie?
+MIDlet-Icon: icon.png
+MIDlet-Install-Notify: Ta aplikacja to żart, nie przejmuj się wynikami.
+MIDlet-Jar-Size: 2498
+MIDlet-Jar-URL: Procenty miłości.jar
+MIDlet-Name: Procenty miłości
+MIDlet-Vendor: Jan "Manna5" Mleczko
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-1.0
