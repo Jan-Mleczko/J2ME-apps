@@ -28,7 +28,7 @@ Jedna z wielu aplikacji zastępujących tradycyjną kostkę do gry. Wyświetla g
 
 ## "Procenty miłości"
 
-Z kategorii śmiesznych aplikacji - aplikacja dla podanych dwóch imion pokazuje w skali od 0 do 100, jak dobrze (fikcyjnie) osoby o tych imionach do siebie pasują. Ta aplikacja (w przeciwieństwie do podobnych z Google Play) przynajmniej nie zawiera przy okazji spyware.
+Z kategorii śmiesznych aplikacji - aplikacja dla podanych dwóch imion pokazuje w skali od 0 do 100, jak dobrze (fikcyjnie) osoby o tych imionach do siebie pasują. Ta aplikacja (w przeciwieństwie do niektórych podobnych) przynajmniej nie zawiera przy okazji spyware.
 
 ## Uklad15
 
